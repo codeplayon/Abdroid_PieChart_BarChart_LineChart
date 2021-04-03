@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Abdroid Pie Chart Bar Chart Line Chart"
